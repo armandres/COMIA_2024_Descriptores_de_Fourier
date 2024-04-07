@@ -1,0 +1,1 @@
+# COMIA_2024_Descriptores_de_Fourier
